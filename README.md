@@ -1,0 +1,1 @@
+Fix for Windows resetting WSL2's network adapters upon restarts or making VPN connections.
